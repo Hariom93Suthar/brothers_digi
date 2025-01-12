@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468235973215",
+    "project_id": "brothersdigi-5befc",
+    "storage_bucket": "brothersdigi-5befc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468235973215:android:76f960dc84973f98efe1ea",
+        "android_client_info": {
+          "package_name": "com.example.brothers_digi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlGomHNQu8oax70wN_ycOu9o6Xn1NAQCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
